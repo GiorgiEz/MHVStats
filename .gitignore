@@ -15,7 +15,6 @@ dist-ssr
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
-.idea
 .DS_Store
 *.suo
 *.ntvs*
@@ -27,3 +26,5 @@ dist-ssr
 # Ignore __pycache__ directories and compiled Python files
 __pycache__/
 *.pyc
+# Lock file
+package-lock.json
